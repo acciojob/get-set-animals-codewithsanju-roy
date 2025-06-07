@@ -13,7 +13,7 @@ class Animal {
 
 class Dog extends Animal {
 	bark(){
-		console.log("Woof")
+		console.log("woof")
 	}
 }
 
